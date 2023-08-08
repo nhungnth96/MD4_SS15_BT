@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ss15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ss15/out/artifacts/ss15_jar/ss15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
